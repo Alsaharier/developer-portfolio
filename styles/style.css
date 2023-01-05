@@ -3,3 +3,24 @@
     font-family: 'Open Sans', sans-serif;
     padding: 0;
 }
+/* header and navigation styles */
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 20px;
+}
+ul{
+        display: flex; }
+
+nav li{
+    list-style: none;
+
+}
+
+.nav-title{
+    font-weight: 800;
+    font-size: 45px;
+}
+.text-primary{
+    color: #FD6E0A;
+}
