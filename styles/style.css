@@ -47,6 +47,16 @@ ul {
     background: #FD6E0A;
     font-weight: 700;
     border: none;
+    margin-bottom: 20px;
+}
+.button-c{
+    color: #FD6E0A;   
+    font-weight: 700;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    border-color: #FD6E0A;
+    background: #FFF8F3; 
 }
 
 .text-primary {
