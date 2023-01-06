@@ -79,7 +79,7 @@ main{
     max-width: 1140px;
     margin: 0 auto;
 }
-section{
+section .section-title{
     margin-top: 130px;
     font-size: 30px;
  
@@ -146,4 +146,39 @@ section{
 }
 .image-size{
     height: 30px;
+}
+/* resume-content */
+
+.resume-content{
+    display: flex;
+    gap: 24px;
+}
+
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.resume-title{
+    font-weight: 700;
+    font-size: 25px;  
+    color: #474747;
+    margin-bottom: 10px;
+    
+}
+.resume .sub-title{
+    color: #757575;
+    font-weight: 600;  
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.resume .description{
+    color: #757575;
+    
+}
+.title{
+    color: #474747;
+}
+.btn-cv{
+    margin-top: 50p;
+    text-align: center;
 }
